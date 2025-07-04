@@ -1,8 +1,10 @@
-flask
+Flask
 flask-cors
 transformers
+torch
 pandas
-scikit-learn
 PyPDF2
 requests
+scikit-learn
+regex
 gunicorn

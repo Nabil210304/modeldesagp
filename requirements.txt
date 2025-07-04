@@ -1,0 +1,7 @@
+flask
+flask-cors
+transformers
+pandas
+scikit-learn
+PyPDF2
+requests
